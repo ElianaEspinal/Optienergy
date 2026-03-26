@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="/images/logo-foto.png" type="image/png" sizes="48x48">
+  <link rel="apple-touch-icon" href="/images/logo-foto.png">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Optienergy",
+  "url": "https://optienergy.es",
+  "logo": "https://optienergy.es/images/logo-foto.png"
+}
+</script>
+  <title>404 — Página no encontrada | Optienergy</title>
+  <meta name="description" content="La página que buscas no existe o ha sido movida. Vuelve al inicio de Optienergy o contacta con nosotros.">
+  <meta name="robots" content="noindex, follow">
+  <link rel="canonical" href="https://optienergy.es/404.html">
+  <meta name="theme-color" content="#0f172a">
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RSL3XMXCFC"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-RSL3XMXCFC');
+  </script>
+
+  <style>
+    :root {
+      --bg: #0f172a;
+      --bg-elevated: #1e293b;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --accent: #22c55e;
+      --accent-hover: #16a34a;
+      --border: rgba(148, 163, 184, 0.2);
+      --radius: 12px;
+      --shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.45);
+      font-size: 100%;
+    }
+    *, *::before, *::after { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: clamp(1.25rem, 4vw, 2.5rem);
+      -webkit-font-smoothing: antialiased;
+    }
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+    .wrap {
+      width: 100%;
+      max-width: 32rem;
+      animation: fadeIn 0.6s ease-out;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .illustration { display: block; width: min(100%, 280px); height: auto; margin: 0 auto 1.75rem; }
+    .illustration .glow { filter: drop-shadow(0 0 24px rgba(34, 197, 94, 0.25)); }
+    h1 {
+      font-size: clamp(1.75rem, 5vw, 2.25rem);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin: 0 0 0.75rem;
+      line-height: 1.2;
+      text-align: center;
+    }
+    .lead { color: var(--text-muted); font-size: 1.0625rem; text-align: center; margin: 0 0 1.75rem; }
+    .card {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.25rem;
+      margin-bottom: 1.5rem;
+      box-shadow: var(--shadow);
+    }
+    .search-form { display: flex; flex-direction: column; gap: 0.75rem; }
+    @media (min-width: 480px) {
+      .search-form { flex-direction: row; align-items: stretch; }
+    }
+    .visually-hidden {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+    .search-input {
+      flex: 1;
+      min-height: 48px;
+      padding: 0.75rem 1rem;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 1rem;
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .search-input::placeholder { color: var(--text-muted); }
+    .search-input:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(34, 197, 94, 0.2);
+    }
+    .search-submit {
+      min-height: 48px;
+      padding: 0.75rem 1.25rem;
+      border: none;
+      border-radius: 8px;
+      background: var(--accent);
+      color: #052e16;
+      font-weight: 600;
+      font-size: 0.9375rem;
+      cursor: pointer;
+      transition: background 0.2s, transform 0.15s;
+    }
+    .search-submit:hover { background: var(--accent-hover); }
+    .search-submit:active { transform: scale(0.98); }
+    .search-hint { font-size: 0.8125rem; color: var(--text-muted); margin: 0.5rem 0 0; }
+    .actions {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      align-items: center;
+    }
+    @media (min-width: 400px) {
+      .actions { flex-direction: row; justify-content: center; flex-wrap: wrap; }
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 48px;
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 1rem;
+      text-decoration: none;
+      transition: background 0.2s, color 0.2s, border-color 0.2s, transform 0.15s;
+    }
+    .btn--primary { background: var(--accent); color: #052e16; border: 2px solid transparent; }
+    .btn--primary:hover { background: var(--accent-hover); }
+    .btn--primary:active { transform: scale(0.98); }
+    .btn--secondary {
+      background: transparent;
+      color: var(--text);
+      border: 2px solid var(--border);
+    }
+    .btn--secondary:hover {
+      border-color: var(--text-muted);
+      background: rgba(255, 255, 255, 0.05);
+    }
+    .footer-note {
+      margin-top: 2rem;
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+      text-align: center;
+    }
+    .footer-note a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+    .footer-note a:hover { color: #4ade80; }
+  </style>
+</head>
+<body>
+  <main class="wrap" id="main-content">
+    <div class="illustration" aria-hidden="true">
+      <svg class="glow" viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="">
+        <defs>
+          <linearGradient id="g404" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#22c55e;stop-opacity:0.9"/>
+            <stop offset="100%" style="stop-color:#0ea5e9;stop-opacity:0.7"/>
+          </linearGradient>
+        </defs>
+        <rect width="240" height="160" rx="16" fill="#1e293b" stroke="rgba(148,163,184,0.25)" stroke-width="1"/>
+        <path d="M48 100 L72 60 L96 88 L120 48 L144 92 L168 56 L192 100 Z" fill="none" stroke="url(#g404)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+        <circle cx="120" cy="52" r="8" fill="url(#g404)"/>
+        <text x="120" y="138" text-anchor="middle" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="13" font-weight="600">ruta no encontrada</text>
+      </svg>
+    </div>
+
+    <h1>404 — Página no encontrada</h1>
+    <p class="lead">Lo sentimos, la página que buscas no existe o ha sido movida.</p>
+
+    <section class="card" aria-labelledby="search-label">
+      <form class="search-form" id="site-search" role="search" action="https://www.google.com/search" method="get">
+        <label id="search-label" class="visually-hidden" for="q">Buscar en Optienergy</label>
+        <input type="hidden" name="q" id="google-q" value="site:optienergy.es">
+        <input
+          class="search-input"
+          type="search"
+          id="q"
+          autocomplete="off"
+          placeholder="¿Qué quieres encontrar?"
+          aria-describedby="search-hint"
+          inputmode="search"
+        >
+        <button type="submit" class="search-submit">Buscar</button>
+      </form>
+      <p id="search-hint" class="search-hint">La búsqueda se abre en Google limitada a optienergy.es</p>
+    </section>
+
+    <nav class="actions" aria-label="Acciones principales">
+      <a class="btn btn--primary" href="/">Volver al inicio</a>
+      <a class="btn btn--secondary" href="/es/contacto.html">Contactar</a>
+    </nav>
+
+    <p class="footer-note" id="redirect-note">
+      Redirigiendo al inicio en <span id="redirect-countdown">10</span> segundos…
+      <a href="/" id="cancel-redirect">Cancelar</a>
+    </p>
+  </main>
+
+  <script>
+    (function () {
+      'use strict';
+
+      if (typeof gtag === 'function') {
+        gtag('event', '404_page', {
+          page_path: window.location.pathname + window.location.search,
+          page_title: document.title,
+          page_location: window.location.href
+        });
+      }
+
+      var form = document.getElementById('site-search');
+      var input = document.getElementById('q');
+      var hiddenQ = document.getElementById('google-q');
+      if (form && input && hiddenQ) {
+        form.addEventListener('submit', function (e) {
+          e.preventDefault();
+          var term = (input.value || '').trim();
+          hiddenQ.value = term ? 'site:optienergy.es ' + term : 'site:optienergy.es';
+          form.submit();
+        });
+      }
+
+      /* Redirección automática al inicio a los 10 s (activa) */
+      var countdownEl = document.getElementById('redirect-countdown');
+      var note = document.getElementById('redirect-note');
+      var cancel = document.getElementById('cancel-redirect');
+      var seconds = 10;
+      var timerId = null;
+
+      function tick() {
+        seconds -= 1;
+        if (countdownEl) countdownEl.textContent = String(Math.max(0, seconds));
+        if (seconds <= 0) {
+          if (timerId) window.clearInterval(timerId);
+          window.location.replace('/');
+        }
+      }
+
+      if (cancel) {
+        cancel.addEventListener('click', function (e) {
+          e.preventDefault();
+          if (timerId) window.clearInterval(timerId);
+          if (note) note.hidden = true;
+        });
+      }
+
+      timerId = window.setInterval(tick, 1000);
+    })();
+  </script>
+</body>
+</html>

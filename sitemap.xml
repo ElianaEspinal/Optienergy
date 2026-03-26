@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://optienergy.es/</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://optienergy.es/ca/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://optienergy.es/es/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://optienergy.es/ca/contacte</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/contacte"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/contacto"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/contacto</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/contacte"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/contacto"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://optienergy.es/ca/blog</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/blog"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/blog</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/blog"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Gas (consultoria) -->
+  <url>
+    <loc>https://optienergy.es/ca/gas/consultoria-energetica-gas</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/gas/consultoria-energetica-gas"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/gas/consultoria-energetica-gas"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/ca/gas/consultoria-energetica-gas"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/gas/consultoria-energetica-gas</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/gas/consultoria-energetica-gas"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/gas/consultoria-energetica-gas"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/ca/gas/consultoria-energetica-gas"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Pymes -->
+  <url>
+    <loc>https://optienergy.es/ca/pimes/auditories-energetiques</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/pimes/auditories-energetiques"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/pymes/auditorias-energeticas"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/pymes/auditorias-energeticas</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/pimes/auditories-energetiques"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/pymes/auditorias-energeticas"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://optienergy.es/ca/pimes/gestio-energetica</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/pimes/gestio-energetica"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/pymes/gestion-energetica"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/pymes/gestion-energetica</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/pimes/gestio-energetica"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/pymes/gestion-energetica"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://optienergy.es/ca/pimes/estalvi-empreses</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/pimes/estalvi-empreses"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/pymes/ahorro-empresas"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/pymes/ahorro-empresas</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/pimes/estalvi-empreses"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/pymes/ahorro-empresas"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://optienergy.es/ca/pimes/autoconsum</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/pimes/autoconsum"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/pymes/autoconsumo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/pymes/autoconsumo</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/pimes/autoconsum"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/pymes/autoconsumo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Servicios -->
+  <url>
+    <loc>https://optienergy.es/ca/serveis/assessoria-energetica</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/serveis/assessoria-energetica"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/servicios/asesoria-energetica"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/servicios/asesoria-energetica</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/serveis/assessoria-energetica"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/servicios/asesoria-energetica"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://optienergy.es/ca/serveis/optimitzacio-factura</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/serveis/optimitzacio-factura"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/servicios/optimizacion-factura"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/servicios/optimizacion-factura</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/serveis/optimitzacio-factura"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/servicios/optimizacion-factura"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://optienergy.es/ca/serveis/estalvi-eficiencia</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/serveis/estalvi-eficiencia"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/servicios/ahorro-eficiencia"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/servicios/ahorro-eficiencia</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/serveis/estalvi-eficiencia"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/servicios/ahorro-eficiencia"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://optienergy.es/ca/serveis/assessorament-llars</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/serveis/assessorament-llars"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/servicios/asesoramiento-hogares"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/servicios/asesoramiento-hogares</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/serveis/assessorament-llars"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/servicios/asesoramiento-hogares"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://optienergy.es/ca/serveis/comunitats-propietaris</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/serveis/comunitats-propietaris"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/servicios/comunidades-propietarios"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/servicios/comunidades-propietarios</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/serveis/comunitats-propietaris"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/servicios/comunidades-propietarios"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Sostenibilidad - Estudio de viabilidad (nuevas URLs limpias) -->
+  <url>
+    <loc>https://optienergy.es/ca/sostenibilitat/estudi-viabilitat-energetica</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/sostenibilitat/estudi-viabilitat-energetica"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/estudio-viabilidad-energetica"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/estudio-viabilidad-energetica</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/sostenibilitat/estudi-viabilitat-energetica"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/estudio-viabilidad-energetica"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Sostenibilidad (resto, sin cambios) -->
+  <url>
+    <loc>https://optienergy.es/ca/sostenibilitat/instalacions-autoconsum</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/sostenibilitat/instalacions-autoconsum"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/sostenibilidad/instalaciones-autoconsumo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/sostenibilidad/instalaciones-autoconsumo</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/sostenibilitat/instalacions-autoconsum"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/sostenibilidad/instalaciones-autoconsumo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://optienergy.es/ca/sostenibilitat/transicio-renovables</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/sostenibilitat/transicio-renovables"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/sostenibilidad/transicion-renovables"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/sostenibilidad/transicion-renovables</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/sostenibilitat/transicio-renovables"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/sostenibilidad/transicion-renovables"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://optienergy.es/ca/sostenibilitat/gestio-excedents</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/sostenibilitat/gestio-excedents"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/sostenibilidad/gestion-excedentes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/sostenibilidad/gestion-excedentes</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/sostenibilitat/gestio-excedents"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/sostenibilidad/gestion-excedentes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/"/>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/ca/gas/consultoria-energetica-gas</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/gas/consultoria-energetica-gas"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/gas/consultoria-energetica-gas"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/ca/gas/consultoria-energetica-gas"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://optienergy.es/es/gas/consultoria-energetica-gas</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://optienergy.es/ca/gas/consultoria-energetica-gas"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://optienergy.es/es/gas/consultoria-energetica-gas"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://optienergy.es/ca/gas/consultoria-energetica-gas"/>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+</urlset>

@@ -1,0 +1,18 @@
+Páginas legales — Optienergy
+============================
+
+Estas páginas son una base legal orientativa adaptada a España (RGPD, LOPDGDD, LSSI-CE) para una persona física (autónomo/a).
+
+Antes de publicar, sustituye los siguientes placeholders por los datos reales del responsable:
+
+  [Nombre del responsable]  → Nombre y apellidos del autónomo/a
+  [NIF/CIF]                 → NIF (persona física) o CIF si aplica
+  [Correo electrónico]      → Email de contacto (ej. info@optienergy.es)
+  [Dirección postal]        → Dirección completa
+  [Ciudad]                  → Ciudad
+  [Código postal]           → Código postal
+  [Provincia]               → Provincia
+  [URL del sitio]           → URL completa del sitio (ej. https://www.optienergy.es)
+  [fecha]                   → Fecha de última actualización (ej. febrero de 2025)
+
+Revisa también los textos con un asesor legal para adaptarlos a tu actividad concreta.
