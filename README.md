@@ -1,9 +1,10 @@
 # ⚡ OptiEnergy
 
-```md
-![Status](https://img.shields.io/badge/status-active-success)
-![Frontend](https://img.shields.io/badge/frontend-JavaScript-yellow)
-![UI](https://img.shields.io/badge/design-UI%2FUX-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-success" />
+  <img src="https://img.shields.io/badge/frontend-JavaScript-yellow" />
+  <img src="https://img.shields.io/badge/design-UI%2FUX-blue" />
+</p>
 
 ## 🌐 Demo en vivo
 👉 https://optienergy.es/es/
