@@ -1,6 +1,13 @@
 # ⚡ Optienergy
 
 <p align="center">
+  
+ <img width="4000" height="2800" alt="pre" src="https://github.com/user-attachments/assets/fb12bc98-cac3-44f7-b8fe-a03e8318b9e7" />
+
+
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/eliana-espinal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -18,8 +25,13 @@
 
 ---
 
-## 🖼️ Preview
-![preview](https://github.com/user-attachments/assets/9d9703a1-bbe1-4f8d-99b9-de91374d81df)
+## 🖼️ Project Preview
+
+### 🖥️ Sevices panel
+![Captura de pantalla 2026-03-30 141332](https://github.com/user-attachments/assets/5563e656-b1b0-44bc-8a11-8fb074867f79)
+
+### 📋 Form
+![Captura de pantalla 2026-03-30 141413](https://github.com/user-attachments/assets/097e061a-e88b-4991-a016-a56f17c45346)
 
 
 ---
