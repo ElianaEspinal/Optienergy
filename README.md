@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:espinaleliana22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://wa.me/34672930481?text=Hola%20Eliana!%20me%20gustaria%20recibir%20más%20información">
-    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp" />
+    <img src="https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=whatsapp" />
   </a>
 </p>
 
