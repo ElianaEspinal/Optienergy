@@ -1,5 +1,10 @@
 # ⚡ OptiEnergy
 
+```md
+![Status](https://img.shields.io/badge/status-active-success)
+![Frontend](https://img.shields.io/badge/frontend-JavaScript-yellow)
+![UI](https://img.shields.io/badge/design-UI%2FUX-blue)
+
 ## 🌐 Demo en vivo
 👉 https://optienergy.es/es/
 
@@ -11,10 +16,6 @@
 
 ---
 
-```md
-![Status](https://img.shields.io/badge/status-active-success)
-![Frontend](https://img.shields.io/badge/frontend-JavaScript-yellow)
-![UI](https://img.shields.io/badge/design-UI%2FUX-blue)
 
 ## 🧠 Sobre el proyecto
 
@@ -60,7 +61,7 @@ El sistema permite monitorizar, analizar y mejorar el uso energético mediante d
 
 ---
 
-## 📦 Instalación
+## 🚀 Cómo usar el proyecto
 
 ```bash
 git clone https://github.com/ElianaEspinal/optienergy.git
